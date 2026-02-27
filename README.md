@@ -1,21 +1,26 @@
-# Wallux Aethel 🌌
-A high-end, minimalist wallpaper archive built with **React** and **Firebase**.
 
-## Features
-- **Cinematic UI:** Dark-themed, editorial design with fluid animations.
-- **Real-time Sync:** Favorites are saved across devices using Firebase Firestore.
-- **HD Downloads:** Direct high-resolution asset downloading.
-- **Responsive:** Fully optimized for Mobile, Tablet, and Desktop.
-- **Search & Filter:** Instant filtering by categories and titles.
+# 🌌 Wallux Aethel - Premium Wallpaper Archive
 
-## Tech Stack
+Wallux Aethel ek high-end, minimalist wallpaper application hai jo React aur Firebase par bani hai.
+
+## 🚀 Live Demo
+Aap is app ko yahan dekh sakte hain: [wallux-aethel.vercel.app]
+
+## ✨ Features
+- **Cinematic UI:** Dark-themed minimalist design.
+- **HD Downloads:** High-resolution wallpapers download karne ki suvidha.
+- **Real-time Favorites:** Firebase Firestore ke saath favorites save karein.
+- **Fully Responsive:** Mobile, Tablet aur Desktop par perfectly chalta hai.
+
+## 🛠️ Tech Stack
 - **Frontend:** React.js, Tailwind CSS
 - **Icons:** Lucide-React
-- **Backend:** Firebase Auth & Firestore
-- **Assets:** Picsum Photos API
+- **Backend:** Firebase (Auth & Firestore)
+- **Deployment:** Vercel
 
-## How to Run
-1. Clone the repo.
-2. Run `npm install`.
-3. Add your Firebase config in `src/App.jsx`.
-4. Run `npm run dev`.
+## 📂 Project Structure
+- `index.html`: Main entry point.
+- `src/App.jsx`: Main application logic.
+- `src/main.jsx`: React rendering logic.
+- `package.json`: Project dependencies.
+- 
